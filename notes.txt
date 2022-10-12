@@ -1,8 +1,4 @@
 ####--- NAVBAR ---####
-1- Empty nav, start inserting li while scrolling (append,appendchild,innerhtml)
-2- section active (makes affects) for The section that is being viewed getBoundingClientRect()
-3- Nav item takes you to section
-4- Create scroll to top button when user scrolls down
 5- Nav should dissappear if user doesn't scroll for 3 seconds
 
 ####--- GITHUB ---####

@@ -68,8 +68,8 @@ section {
 
 /* Navigation Styles*/
 .navbar__menu{
-    background-color: red;
-    height: 7vh;
+    background-color: silver;
+    height: fit-content;
 }
 
 .navbar__menu ul {
@@ -114,6 +114,18 @@ section {
 
 .page__footer p{
     color: #fff;
+}
+
+/* If (scroll to top of page) icon is active */
+.fa-angles-up.active {
+    padding: 10px;
+    position: fixed;
+    font-size: 20;
+    right: 30px;
+    bottom: 30px;
+    background-color: rgb(14, 108, 88);
+    border-radius: 50%;
+    cursor: pointer;
 }
 
 
